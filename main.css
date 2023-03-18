@@ -1,6 +1,46 @@
+body{
+    background: #1E1E1E;
+
+}
 .contenedorUno{
-    border: 1px solid red;
     width: 100%;
-    height: 901px;
+    height: 800px;
+    border: 1px solid red;
+}
+
+.contenedorInicio{
+    width: 20%;
+    height: 20%;
+    border: 1px solid red;
+}
+.contenedorParrafo1{
+    width: 80%;
+    height: 25%;
+    margin: 261px;
+    float: left;
+    margin-top: -162px;
+    background: aqua;
+}
+.contenedorParrafo2{
+    width: 80%;
+    height: 25%;
+    margin: 261px;
+    margin-top:38px;
+    background: #ffcc00;
+    
+}
+.contenedorParrafo3{
+    width: 80%;
+    height: 25%;
+    margin: 261px;
+    margin-top: -261px;
+    background: orange;
+}
+.contenedorParrafo4{
+    width: 80%;
+    height: 25%;
+    margin: 261px;
+    margin-top: -261px;
+    background: red;
 
 }
